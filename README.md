@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Flutter, Dart, Firebase and State management.  
   
 
-- ⚡ Fun fact: I am enthralled by basketball and I love the Good doctor series  
+- ⚡ Fun fact: I am enthralled by basketball and I love the Good doctor series  😁
   
 
 <br/>  
