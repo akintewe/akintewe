@@ -1,7 +1,7 @@
 ### <div align="center">I'm Akintewe Oluwasola Nathan, a mobile developer.</div>  
   
 
-- 🔭 I’m currently working on https://github.com/ameetspeaks/supermart
+- 🔭 I’m currently working on Projects 😁
   
 
 - 🌱 I’m currently learning Flutter,Dart, Firebase, and Nodejs  
