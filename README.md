@@ -4,10 +4,10 @@
 - 🔭 I’m currently working on Projects 😁
   
 
-- 🌱 I’m currently learning Flutter,Dart, Firebase, and Nodejs  
+- 🌱 I’m currently learning Flutter,Dart,Kotlin, Python, Firebase, and Nodejs  
   
 
-- ❓ Ask me about anything related to Flutter, Dart, Firebase and State management.  
+- ❓ Ask me about anything related to Flutter,Kotlin, Python, Dart, Firebase and State management.  
   
 
 - ⚡ Fun fact: I am enthralled by basketball and I love the Good doctor series  😁
