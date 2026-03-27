@@ -1,5 +1,5 @@
 <a href="https://github.com/akintewe">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1a3e,60:0d3b6e,100:1a6b3c&height=220&section=header&text=Nathan_akin&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Flutter/React Native%20Specialist%20%7C%20Blockchain%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,30:1a1a3e,60:0d3b6e,100:1a6b3c&height=220&section=header&text=Nathan_akin&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Developer%20%7C%20Flutter/ReactNative%20Specialist%20%7C%20Blockchain%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 </a>
 
 <p align="center">
